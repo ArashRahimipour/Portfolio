@@ -1,0 +1,112 @@
+.card{
+ display: flex;
+ margin-right: 600px;
+ margin-top: 35px;
+}
+
+.front{
+    display: flex;
+    justify-content:space-around;
+    gap: 100px;
+    margin-left: 50px;
+}
+
+.front img{
+    width: 200px;
+    height: 250px;
+    margin-right: 1rem;
+}
+
+.boy {
+    transition: 3s;
+}
+
+.boy:hover{
+    transform: scale(1.2);
+}
+
+.tourism {
+    transition: 3s;
+}
+
+.tourism:hover{
+    transform: scale(1.2);
+}
+
+.weather {
+    transition: 3s;
+}
+
+.weather:hover{
+    transform: scale(1.2);
+}
+
+
+.back{
+    background-color:#647C90;
+    width: 200px;
+    box-shadow: #E2DED0 0 20px 20px;
+    border-radius: 6px;
+}
+
+.back-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ex{
+    font-size: 1rem;
+}
+.bmi, .ex{
+    color: #ccc;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/*.bmi,.ex:hover{
+    color: #145DA0;
+    transition: 3s;
+}*/
+
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.link1{
+    color: #ccc;
+    cursor: pointer;
+}
+
+.link2{
+    color: #ccc;
+}
+/*.you, .face, .insta, .link:hover{
+    color: #145DA0;
+    transition: 3s;
+}*/
+
+
+@media screen and (max-width: 720px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 600px;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
