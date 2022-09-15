@@ -1,14 +1,15 @@
 .card{
- display: flex;
- margin-right: 600px;
+ max-width: 1140px;
+ margin-right: 20rem;
  margin-top: 35px;
 }
 
 .front{
     display: flex;
-    justify-content:space-around;
-    gap: 100px;
-    margin-left: 50px;
+    justify-content:space-between;
+    align-items: center;
+    gap:55px;
+    margin-left: 350px;
 }
 
 .front img{
@@ -38,6 +39,14 @@
 }
 
 .weather:hover{
+    transform: scale(1.2);
+}
+
+.Crypto {
+    transition: 3s;
+}
+
+.Crypto:hover{
     transform: scale(1.2);
 }
 
@@ -91,7 +100,47 @@
 }*/
 
 
+@media screen and (max-width: 1024px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 600px;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
 @media screen and (max-width: 720px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 600px;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 268px){
     .card{
         display: flex;
         justify-content: space-around;

@@ -40,6 +40,37 @@
 }
 
 
+@media screen and (max-width:1024px){
+    .hero-container{
+        position: relative;
+     }
+ 
+     .hero{
+         position: absolute;
+         top: 32px;
+         width:fit-content;
+         left: 100px;
+         align-items: center;
+         text-align:center;
+         padding: 5px;
+         font-size: 10px;
+         font-family: 'Times New Roman', Times, serif;
+         height: 150px; 
+     }
+ 
+     .hero,h3, p{
+         color: #fff;
+         padding: 5px;
+         font-size: 14px;
+     }
+ 
+     .hero p:hover{
+         color: aquamarine;
+         transition: 4s;
+     }
+}
+
+
 @media screen and (max-width:720px){
     .hero-container{
        position: relative;
@@ -47,9 +78,9 @@
 
     .hero{
         position: absolute;
-        top: 70px;
+        top: 61px;
         width:fit-content;
-        left: 5px;
+        left: 10px;
         align-items: center;
         text-align:center;
         padding: 5px;
@@ -69,4 +100,65 @@
     }
 
     
+}
+
+@media screen and (max-width:540px){
+    .hero-container{
+        position: relative;
+     }
+ 
+     .hero{
+         position: absolute;
+         top: 32px;
+         width:fit-content;
+         left: 5px;
+         align-items: center;
+         text-align:center;
+         padding: 5px;
+         font-size: 10px;
+         font-family: 'Times New Roman', Times, serif;
+         height: 150px; 
+     }
+ 
+     .hero,h3, p{
+         color: #fff;
+         padding: 5px;
+         font-size: 14px;
+     }
+ 
+     .hero p:hover{
+         color: aquamarine;
+         transition: 4s;
+     }
+}
+
+@media screen and (max-width:286px){
+    .hero-container{
+        position: relative;
+     }
+ 
+     .hero{
+         position: absolute;
+         top: 32px;
+         width:fit-content;
+         left: 5px;
+         align-items: center;
+         text-align:center;
+         padding: 5px;
+         font-size: 10px;
+         font-family: 'Times New Roman', Times, serif;
+         height: 150px; 
+     }
+ 
+     .hero,h3, p{
+         color: #fff;
+         padding: 5px;
+         font-size: 14px;
+     }
+ 
+     .hero p:hover{
+         color: aquamarine;
+         transition: 4s;
+     }
+ 
 }

@@ -21,21 +21,18 @@
 }
 
 
-.container .title ul li:hover {
-    color: #E7D2CC;
+.container .title ul li:hover{
+    color: #FF3D33;
     transition: color 1s;
     cursor: pointer;
 }
-.container .title ul li:active {
-    color: #E7D2CC;
-    transition: color 1s;
-    cursor: pointer;
-}
+
 
 .burger{
     display: none;
     
 }
+
 
 
 
@@ -80,6 +77,10 @@
         li a:hover{
             color: aquamarine;
             transition: 4s;
+        }
+
+        .home{
+            display: none;
         }
         
     }

@@ -6,6 +6,8 @@ import {FaHotel} from 'react-icons/fa';
 import Tourism from '../../photos/Tourism.png';
 import {TiWeatherSnow} from 'react-icons/ti';
 import weatherapp from '../../photos/weatherapp.png';
+import Crypto from '../../photos/Crypto.png';
+import {BsCoin} from 'react-icons/bs';
 
 
 const Card = () => {
@@ -22,25 +24,12 @@ const Card = () => {
                             <p className='ex'> React.js</p>
                         </div>    
                         <div className='project'>
-                            <a href='/'><BsGithub className='link1'/></a>
+                            <a href='https://github.com/ArashRahimipour/BMI-BMI'><BsGithub className='link1'/></a>
                             <a href='/'><MdOutlineSportsFootball className='link2'/></a>
                         </div>
                     </div>     
                 </div>
 
-                <div className='tourism'>
-                    <img src={Tourism} alt="/"/>
-                    <div className='back'>
-                        <div className='back-content'>
-                            <h2 className='bmi'>Tourism</h2>
-                            <p className='ex'> React.js</p>
-                        </div>   
-                        <div className='project'>
-                            <a href='/'><BsGithub className='link1'/></a>
-                            <a href='/'><FaHotel className='link2'/></a>
-                        </div>
-                    </div>     
-                </div>
 
                 <div className='weather'>
                     <img src={weatherapp} alt="/"/>
@@ -50,8 +39,22 @@ const Card = () => {
                             <p className='ex'> React.js</p>
                         </div>   
                         <div className='project'>
-                            <a href='/'><BsGithub className='link1'/></a>
+                            <a href='https://github.com/ArashRahimipour/weather-app'><BsGithub className='link1'/></a>
                             <a href='/'><TiWeatherSnow className='link2'/></a>
+                        </div>
+                    </div>     
+                </div>
+
+                <div className='Crypto'>
+                    <img src={Crypto} alt="/"/>
+                    <div className='back'>
+                        <div className='back-content'>
+                            <h2 className='bmi'>Crypto</h2>
+                            <p className='ex'> React.js</p>
+                        </div>   
+                        <div className='project'>
+                            <a href='https://github.com/ArashRahimipour/Crypto'><BsGithub className='link1'/></a>
+                            <a href='/'><BsCoin className='link2'/></a>
                         </div>
                     </div>     
                 </div>
