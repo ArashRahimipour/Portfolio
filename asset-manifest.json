@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ArashRahimipour/Portfolio/static/css/main.32a5f378.css",
-    "main.js": "/ArashRahimipour/Portfolio/static/js/main.6279255f.js",
-    "static/media/Tourism.png": "/ArashRahimipour/Portfolio/static/media/Tourism.757597053c5d4faa9faa.png",
-    "static/media/weatherapp.png": "/ArashRahimipour/Portfolio/static/media/weatherapp.96243a72f5c21f08006f.png",
-    "static/media/laptop.jpeg": "/ArashRahimipour/Portfolio/static/media/laptop.6dd06845da9ac9f872db.jpeg",
-    "static/media/Crypto.png": "/ArashRahimipour/Portfolio/static/media/Crypto.203231578ac9bd2c4fde.png",
-    "static/media/react.png": "/ArashRahimipour/Portfolio/static/media/react.2ff62646c0dbdc34d719.png",
-    "static/media/boy.png": "/ArashRahimipour/Portfolio/static/media/boy.7496db90d4401de1a7ed.png",
-    "static/media/bootstrap.png": "/ArashRahimipour/Portfolio/static/media/bootstrap.d650a3504bbdd7a8dba2.png",
-    "static/media/Resume.pdf": "/ArashRahimipour/Portfolio/static/media/Resume.efd9a953eee4d4dfd22e.pdf",
-    "static/media/html.png": "/ArashRahimipour/Portfolio/static/media/html.f023bfe200781ccb8927.png",
-    "static/media/css.png": "/ArashRahimipour/Portfolio/static/media/css.8e480107fb447b46b61b.png",
-    "static/media/javascript.jpeg": "/ArashRahimipour/Portfolio/static/media/javascript.d7a801611edcee561ab4.jpeg",
-    "index.html": "/ArashRahimipour/Portfolio/index.html",
-    "main.32a5f378.css.map": "/ArashRahimipour/Portfolio/static/css/main.32a5f378.css.map",
-    "main.6279255f.js.map": "/ArashRahimipour/Portfolio/static/js/main.6279255f.js.map"
+    "main.css": "/Portfolio/static/css/main.7cb1a604.css",
+    "main.js": "/Portfolio/static/js/main.68bd2a8d.js",
+    "static/media/Tourism.png": "/Portfolio/static/media/Tourism.757597053c5d4faa9faa.png",
+    "static/media/weatherapp.png": "/Portfolio/static/media/weatherapp.96243a72f5c21f08006f.png",
+    "static/media/laptop.jpeg": "/Portfolio/static/media/laptop.6dd06845da9ac9f872db.jpeg",
+    "static/media/Crypto.png": "/Portfolio/static/media/Crypto.203231578ac9bd2c4fde.png",
+    "static/media/react.png": "/Portfolio/static/media/react.2ff62646c0dbdc34d719.png",
+    "static/media/boy.png": "/Portfolio/static/media/boy.7496db90d4401de1a7ed.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.d650a3504bbdd7a8dba2.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.efd9a953eee4d4dfd22e.pdf",
+    "static/media/html.png": "/Portfolio/static/media/html.f023bfe200781ccb8927.png",
+    "static/media/css.png": "/Portfolio/static/media/css.8e480107fb447b46b61b.png",
+    "static/media/javascript.jpeg": "/Portfolio/static/media/javascript.d7a801611edcee561ab4.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.7cb1a604.css.map": "/Portfolio/static/css/main.7cb1a604.css.map",
+    "main.68bd2a8d.js.map": "/Portfolio/static/js/main.68bd2a8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a5f378.css",
-    "static/js/main.6279255f.js"
+    "static/css/main.7cb1a604.css",
+    "static/js/main.68bd2a8d.js"
   ]
 }
