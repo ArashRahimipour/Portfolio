@@ -1,14 +1,15 @@
 .app {
-    background-image: url(./photos/laptop.jpeg);
+    background-image: url(./photos/blue.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 @media  screen and (max-width:280px){
     .app {
-        background-image: url(./photos/laptop.jpeg);
+        background-image: url(./photos/blue.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
+        margin-left: auto;
     }
 }
     

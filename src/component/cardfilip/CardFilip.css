@@ -100,25 +100,6 @@
 }*/
 
 
-@media screen and (max-width: 1024px){
-    .card{
-        display: flex;
-        justify-content: space-around;
-        
-    }
-
-    .front{
-        display: flex;
-        flex-wrap: wrap;
-        margin-left: 600px;
-    }
-
-    .front img{
-        width: 200px;
-        height: 200px;
-        margin-right: 1rem;
-    }
-}
 
 @media screen and (max-width: 720px){
     .card{
@@ -130,7 +111,7 @@
     .front{
         display: flex;
         flex-wrap: wrap;
-        margin-left: 600px;
+        margin-left: 370px;
     }
 
     .front img{
@@ -140,7 +121,7 @@
     }
 }
 
-@media screen and (max-width: 268px){
+@media screen and (max-width: 540px){
     .card{
         display: flex;
         justify-content: space-around;
@@ -150,7 +131,48 @@
     .front{
         display: flex;
         flex-wrap: wrap;
-        margin-left: 600px;
+        margin-left: 350px;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 375px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 350px;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 280px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 330px;
     }
 
     .front img{

@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='footer'>
             <div className='social'>
                 <a href="https://www.linkedin.com/in/arash-rahimipour-3061b124b/"><AiFillLinkedin className='link'/></a>
-                <a herf="https://github.com/ArashRahimipour/Portfolio"><BsGithub className='link'/></a>
+                <a href="https://github.com/ArashRahimipour"><BsGithub className='link'/></a>
             </div>
             <h2 className='last'>website made by React ©2022 Arash Rahimipour </h2>
         </div>
