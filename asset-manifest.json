@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7cb1a604.css",
-    "main.js": "/Portfolio/static/js/main.68bd2a8d.js",
+    "main.css": "/Portfolio/static/css/main.5140349b.css",
+    "main.js": "/Portfolio/static/js/main.9425b04f.js",
     "static/media/Tourism.png": "/Portfolio/static/media/Tourism.757597053c5d4faa9faa.png",
     "static/media/weatherapp.png": "/Portfolio/static/media/weatherapp.96243a72f5c21f08006f.png",
-    "static/media/laptop.jpeg": "/Portfolio/static/media/laptop.6dd06845da9ac9f872db.jpeg",
     "static/media/Crypto.png": "/Portfolio/static/media/Crypto.203231578ac9bd2c4fde.png",
+    "static/media/blue.jpeg": "/Portfolio/static/media/blue.4fd25b268892cebc8852.jpeg",
     "static/media/react.png": "/Portfolio/static/media/react.2ff62646c0dbdc34d719.png",
     "static/media/boy.png": "/Portfolio/static/media/boy.7496db90d4401de1a7ed.png",
     "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.d650a3504bbdd7a8dba2.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.efd9a953eee4d4dfd22e.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.f4c6a4aafbaa8a20634b.pdf",
     "static/media/html.png": "/Portfolio/static/media/html.f023bfe200781ccb8927.png",
     "static/media/css.png": "/Portfolio/static/media/css.8e480107fb447b46b61b.png",
     "static/media/javascript.jpeg": "/Portfolio/static/media/javascript.d7a801611edcee561ab4.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.7cb1a604.css.map": "/Portfolio/static/css/main.7cb1a604.css.map",
-    "main.68bd2a8d.js.map": "/Portfolio/static/js/main.68bd2a8d.js.map"
+    "main.5140349b.css.map": "/Portfolio/static/css/main.5140349b.css.map",
+    "main.9425b04f.js.map": "/Portfolio/static/js/main.9425b04f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb1a604.css",
-    "static/js/main.68bd2a8d.js"
+    "static/css/main.5140349b.css",
+    "static/js/main.9425b04f.js"
   ]
 }
