@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5140349b.css",
-    "main.js": "/Portfolio/static/js/main.53e25abd.js",
+    "main.js": "/Portfolio/static/js/main.f871244f.js",
     "static/media/Tourism.png": "/Portfolio/static/media/Tourism.757597053c5d4faa9faa.png",
     "static/media/weatherapp.png": "/Portfolio/static/media/weatherapp.96243a72f5c21f08006f.png",
     "static/media/Crypto.png": "/Portfolio/static/media/Crypto.203231578ac9bd2c4fde.png",
@@ -9,16 +9,16 @@
     "static/media/react.png": "/Portfolio/static/media/react.2ff62646c0dbdc34d719.png",
     "static/media/boy.png": "/Portfolio/static/media/boy.7496db90d4401de1a7ed.png",
     "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.d650a3504bbdd7a8dba2.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.96cc4f400a1cf278c341.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.13bc4bc4cc5dcef05ee6.pdf",
     "static/media/html.png": "/Portfolio/static/media/html.f023bfe200781ccb8927.png",
     "static/media/css.png": "/Portfolio/static/media/css.8e480107fb447b46b61b.png",
     "static/media/javascript.jpeg": "/Portfolio/static/media/javascript.d7a801611edcee561ab4.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.5140349b.css.map": "/Portfolio/static/css/main.5140349b.css.map",
-    "main.53e25abd.js.map": "/Portfolio/static/js/main.53e25abd.js.map"
+    "main.f871244f.js.map": "/Portfolio/static/js/main.f871244f.js.map"
   },
   "entrypoints": [
     "static/css/main.5140349b.css",
-    "static/js/main.53e25abd.js"
+    "static/js/main.f871244f.js"
   ]
 }
