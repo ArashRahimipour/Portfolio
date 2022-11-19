@@ -86,3 +86,21 @@ h4{
         
     }
 }
+
+@media screen and (max-width:280px){
+    .about{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-align: justify;
+        width: 80%;
+        margin-left: 2rem;
+        margin-top: 5px;
+    }
+
+    .top{
+        display: flex;
+        flex-direction: column;
+        
+    }
+}

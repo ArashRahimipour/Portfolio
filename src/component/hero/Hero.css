@@ -224,6 +224,37 @@
      }
 }
 
+@media screen and (max-width:414px){
+    .hero-container{
+        position: relative;
+     }
+ 
+     .hero{
+         position: absolute;
+         top: 32px;
+         width:fit-content;
+         left: 5px;
+         align-items: center;
+         text-align:center;
+         padding: 5px;
+         font-size: 10px;
+         font-family: 'Times New Roman', Times, serif;
+         height: 150px; 
+     }
+ 
+     .hero,h3, p{
+         color: #fff;
+         padding: 5px;
+         font-size: 12px;
+     }
+ 
+     .hero p:hover{
+         color: aquamarine;
+         transition: 4s;
+     }
+ 
+}
+
 @media screen and (max-width:286px){
     .hero-container{
         position: relative;
