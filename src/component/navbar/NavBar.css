@@ -135,13 +135,13 @@
         
     }
 
-    @media screen and (max-width: 412px){
+    @media screen and (max-width: 414px){
         .search{
             display: none;
         }
         .burger{
             display: flex;
-            margin-right: 10px;
+            margin:35px;
         }
     
         .nav-menu{
