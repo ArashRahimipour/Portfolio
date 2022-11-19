@@ -5,6 +5,10 @@ import javascript from '../../photos/javascript.jpeg'
 import react from '../../photos/react.png'
 import redux from '../../photos/redux.png'
 import bootstrap from '../../photos/bootstrap.png'
+import next from '../../photos/next.png'
+import tailwind from '../../photos/tailwind.png'
+import material from '../../photos/material.png'
+import the from '../../photos/th.jpeg'
 
 const Skill = () => {
     const pics = [
@@ -31,6 +35,22 @@ const Skill = () => {
         {
           id:6,
           photo: bootstrap, 
+        },
+        {
+          id:7,
+          photo: next, 
+        },
+        {
+          id:8,
+          photo: tailwind, 
+        },
+        {
+          id:9,
+          photo: material, 
+        },
+        {
+          id:10,
+          photo: the, 
         },
     ]
 
