@@ -52,3 +52,37 @@ h4{
         
     }
 }
+
+@media screen and (max-width:540px){
+    .about{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-align: justify;
+        width: 90%;
+        margin-left: 15px;
+    }
+
+    .top{
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
+
+@media screen and (max-width:414px){
+    .about{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        text-align: justify;
+        width: 90%;
+        margin-left: 18px;
+    }
+
+    .top{
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
