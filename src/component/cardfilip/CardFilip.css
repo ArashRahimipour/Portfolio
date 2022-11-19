@@ -101,6 +101,47 @@
 
 
 
+@media screen and (max-width: 1024px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 33rem;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 912px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 33rem;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
+        margin-right: 1rem;
+    }
+}
+
+
 @media screen and (max-width: 720px){
     .card{
         display: flex;
@@ -131,13 +172,31 @@
     .front{
         display: flex;
         flex-wrap: wrap;
-        margin-left: 350px;
+        padding-left: 200px;
     }
 
     .front img{
         width: 200px;
         height: 200px;
-        margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 412px){
+    .card{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+    .front{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 22rem;
+    }
+
+    .front img{
+        width: 200px;
+        height: 200px;
     }
 }
 
@@ -158,7 +217,6 @@
     .front img{
         width: 200px;
         height: 200px;
-        margin-right: 1rem;
     }
 }
 
@@ -166,18 +224,17 @@
     .card{
         display: flex;
         justify-content: space-around;
-        
+        width: 100%;   
     }
 
     .front{
         display: flex;
         flex-wrap: wrap;
-        margin-left: 330px;
+        padding-left: 200px;
     }
 
     .front img{
         width: 200px;
         height: 200px;
-        margin-right: 1rem;
     }
 }
