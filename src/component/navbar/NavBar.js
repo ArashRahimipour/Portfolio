@@ -8,7 +8,7 @@ import {AiOutlineContacts} from 'react-icons/ai';
 import {AiOutlineTool} from 'react-icons/ai';
 import {GiHamburgerMenu} from 'react-icons/gi';
 import {FaTimes} from 'react-icons/fa';
-import Resume from '../../photos/Resume.pdf';
+import Resume from '../../photos/CV.pdf';
 import {AiFillHome} from 'react-icons/ai';
 
 
