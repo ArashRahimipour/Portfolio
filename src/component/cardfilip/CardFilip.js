@@ -8,6 +8,7 @@ import {TiWeatherSnow} from 'react-icons/ti';
 import weatherapp from '../../photos/weatherapp.png';
 import Crypto from '../../photos/Crypto.png';
 import {BsCoin} from 'react-icons/bs';
+import UiMaterial from '../../photos/UiMaterial.png';
 
 
 const Card = () => {
@@ -54,6 +55,19 @@ const Card = () => {
                         </div>   
                         <div className='project'>
                             <a href='https://github.com/ArashRahimipour/Crypto'><BsGithub className='link1'/></a>
+                            <a href='/'><BsCoin className='link2'/></a>
+                        </div>
+                    </div>     
+                </div>
+                <div className='material-ui'>
+                    <img src={UiMaterial} alt="/"/>
+                    <div className='back'>
+                        <div className='back-content'>
+                            <h2 className='bmi'>Material-Ui-Project</h2>
+                            <p className='ex'> React.js</p>
+                        </div>   
+                        <div className='project'>
+                            <a href='https://github.com/ArashRahimipour/Material-Ui-App'><BsGithub className='link1'/></a>
                             <a href='/'><BsCoin className='link2'/></a>
                         </div>
                     </div>     
