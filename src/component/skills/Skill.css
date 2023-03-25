@@ -1,0 +1,28 @@
+.container-skill{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.skills{
+    font-size: 1.5rem;
+    color: #ccc;
+}
+
+.skill{
+    margin-top: 20px;
+}
+
+.skill img{
+    margin-left: 20px;
+    box-shadow: #ccc 0 8px 12px;
+    transition: 1s;
+    padding: 4px;
+}
+
+.skill img:hover{
+    transform: scale(1.2);
+}
+

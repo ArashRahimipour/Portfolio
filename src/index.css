@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  background-color: #5885AF;
+  padding-right: 5px;
+  height: 60px;
+}
+
+
+a{
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+

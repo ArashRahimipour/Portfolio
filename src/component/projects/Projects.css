@@ -1,0 +1,33 @@
+.middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+
+
+.text1 p{
+    font-size: 2rem;
+    color: #EEEDE7;
+    text-align: center;
+    transition: 2s;
+}
+
+.text1 .project:hover{
+  transform: scale(1.1);
+}
+
+
+
+@media screen and (max-width:720px){
+
+    .text1.project{
+       margin-top: 350px;
+       margin-right: 30px; 
+    }
+}
+
+
+
+
