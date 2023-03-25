@@ -1,7 +1,7 @@
 import './NavBar.css';
 import { useState } from 'react';
 import {Link} from 'react-scroll';
-import {BsPaperclip} from 'react-icons/bs';
+import {FiPaperclip} from 'react-icons/fi';
 import {AiOutlineProject} from 'react-icons/ai';
 import {TbFileDescription} from 'react-icons/tb';
 import {AiOutlineContacts} from 'react-icons/ai';
@@ -9,7 +9,7 @@ import {AiOutlineTool} from 'react-icons/ai';
 import {GiHamburgerMenu} from 'react-icons/gi';
 import {FaTimes} from 'react-icons/fa';
 import Resume from '../../photos/Resume.pdf';
-import {AiFillHome} from 'react-icons/ai';
+// import {AiFillHome} from 'react-icons/ai';
 
 
 
@@ -26,7 +26,7 @@ const NavBar = () => {
                     <li><Link onClick={handelburger} smooth={true} to="about">About <TbFileDescription/></Link></li>
                     <li><Link onClick={handelburger} smooth={true} to="project">Projects <AiOutlineProject/></Link></li>
                     <li><Link onClick={handelburger} smooth={true} to="skill">Skills <AiOutlineTool/></Link></li>
-                    <a href={Resume}>Resume<BsPaperclip/></a>
+                    <a href={Resume}>Resume<FiPaperclip/></a>
                     <li><Link onClick={handelburger} smooth={true} to="contact">Contact <AiOutlineContacts/></Link></li>
                 </ul>
             </div>
